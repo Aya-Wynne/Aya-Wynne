@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aya-Wynne
-- 👀 I’m interested in User Experience and Service Design
+- 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently learning the basics!
 - 💞️ I’m looking to collaborate on nothing just yet
 - 📫 How to reach me ...
